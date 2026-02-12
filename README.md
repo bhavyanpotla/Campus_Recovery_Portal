@@ -1,8 +1,8 @@
 # Campus_Recovery_Portal
 post, search and recover items and acts like a lost and find portal.
-# 📦 Campus Recovery Portal (FindIt)
+#   Campus Recovery Portal (FindIt)
 
-## 👨‍💻 Team Details
+##   Team Details
 **Team Name:** "CODE BLOODED CREW"
 
 **Project Type:** Web Application – Lost & Found Portal  
@@ -49,7 +49,7 @@ Users login using Email OTP verification to prevent fake posts and spam entries.
 
 ---
 
-## 🧰 Tech Stack
+##   Tech Stack
 
 ### Frontend
 - HTML5
@@ -105,7 +105,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## 🎮 How to Use
+##  How to Use
 1. Login using email
 2. Enter OTP received in mail
 3. Post a lost or found item
@@ -114,7 +114,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## 📚 Learnings
+##   Learnings
 - Flask routing and sessions
 - Email authentication using SMTP
 - Database handling using SQLite
@@ -123,7 +123,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## ⚠ Challenges Faced
+##   Challenges Faced
 - Gmail SMTP authentication errors
 - OTP verification handling
 - Restricting delete access to owner
@@ -137,12 +137,13 @@ http://127.0.0.1:5000/
 
 ---
 
-## 🌐 Hosted Link
-(Add deployment link if available)
+##   Hosted Link
+
+[ http://127.0.0.1:5000/](url)
 
 ---
 
-## 🚀 Future Improvements
+##   Future Improvements
 - Image upload for items
 - AI matching of lost and found objects
 - Mobile app version

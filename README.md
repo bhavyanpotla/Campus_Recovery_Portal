@@ -7,9 +7,12 @@ post, search and recover items and acts like a lost and find portal.
 **Project Type:** Web Application – Lost & Found Portal  
 
 **Members:**
-Bhavyan potla(POC)
+Bhavyan Potla(POC)
+
 Suhaas Sarabu
-Hemanth batthala
+
+Hemanth Batthala
+
 Lokesh kumar
 
 ---

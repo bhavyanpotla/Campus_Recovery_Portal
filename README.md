@@ -3,7 +3,8 @@ post, search and recover items and acts like a lost and find portal.
 # 📦 Campus Recovery Portal (FindIt)
 
 ## 👨‍💻 Team Details
-**Team Name:** CODE BLOODED CREW  
+**Team Name:** "CODE BLOODED CREW"
+
 **Project Type:** Web Application – Lost & Found Portal  
 
 **Members:**

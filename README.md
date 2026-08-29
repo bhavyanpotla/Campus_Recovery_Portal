@@ -4,9 +4,8 @@ post, search and recover items and acts like a lost and find portal.
 
 ## 🎥 Demo Video
 
-youtube --  [WATCH](https://youtu.be/pU9OUHjUqGQ)
+youtube --  [Visit&Watch](https://youtu.be/pU9OUHjUqGQ)
 
-drive --  https://drive.google.com/file/d/1wgDJJ5LtCgxvy-_JbKrn3iuhPcFfXevb/view?usp=sharing
 
 
 ##   Team Details

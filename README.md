@@ -4,7 +4,7 @@ post, search and recover items and acts like a lost and find portal.
 
 ## 🎥 Demo Video
 
-youtube --  https://youtu.be/pFFg8EFV-yY
+youtube --  [WATCH](https://youtu.be/pU9OUHjUqGQ)
 
 drive --  https://drive.google.com/file/d/1wgDJJ5LtCgxvy-_JbKrn3iuhPcFfXevb/view?usp=sharing
 
@@ -141,7 +141,7 @@ http://127.0.0.1:5000/
 ---
 
 ## 🎥 Demo Video
-https://youtu.be/YZCcYZJT_9k
+youtube --  [WATCH](https://youtu.be/pU9OUHjUqGQ)
 
 ---
 
